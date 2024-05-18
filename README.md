@@ -6,4 +6,4 @@ My name is Jade and I am a web design student at the University of Florida. I've
 I started learning basic HTML, CSS, and JS through an online platform using guided projects. I am looking forward to building my coding skills.
 ## Career Goals ##
 1. Gain an internship in the tech field.
-2. Work as a front-end engineer and/or UX field.
+2. Work as a front-end engineer and/or in the UX field.
